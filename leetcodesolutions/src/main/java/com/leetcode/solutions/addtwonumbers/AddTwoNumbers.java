@@ -1,10 +1,8 @@
-package addtwonumbers;
+package main.java.com.leetcode.solutions.addtwonumbers;
 
 public class AddTwoNumbers {
 
     public static void main(String[] args) {
-
-        System.out.println(58/10);
 
         ListNode listNode1 = new ListNode(9);
         ListNode listNode2 = new ListNode(9);
