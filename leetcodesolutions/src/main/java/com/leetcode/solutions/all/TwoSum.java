@@ -1,7 +1,11 @@
-package main.java.com.leetcode.solutions.all;
+package com.leetcode.solutions.all;
 
 import java.util.HashMap;
 import java.util.Map;
+
+/***
+ * Leet code problem statement 1
+ */
 
 public class TwoSum {
 

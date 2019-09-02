@@ -1,4 +1,8 @@
-package main.java.com.leetcode.solutions.addtwonumbers;
+package com.leetcode.solutions.addtwonumbers;
+
+/***
+ * Leet code problem statement 2
+ */
 
 public class AddTwoNumbers {
 
