@@ -1,13 +1,15 @@
 package com.leetcode.solutions.all;
 
+/**
+ *
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ * The logic to solve the longest palindrome
+ * 1. first letter is equal to the last letter
+ * AND
+ * 2. inner word is also a palindrom
+ */
 public class LongestPalindrome {
 
-    /**
-     * The logic to solve the longest palindrome
-     * 1. first letter is equal to the last letter
-     * AND
-     * 2. inner word is also a palindrom
-     */
     public String longestPalindrome(String s){
         int stringLength = s.length();
 
